@@ -1,1 +1,3 @@
-# NODEJS-V14Moderasyon
+# NodeJS-V14Moderasyon
+npm i discord.js
+node shard.js
